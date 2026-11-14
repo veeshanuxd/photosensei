@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.wrangler/
+scratch/
+*.zip
+.env
+.env.*
+.DS_Store
+*.log
